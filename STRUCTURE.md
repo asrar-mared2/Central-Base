@@ -566,3 +566,4 @@ Categories:
 ┌────────────────────────────────────────────────────────────┐
 │                    ⚡ STATUS BADGES                        │
 ├────────
+![1000315323](https://github.com/user-attachments/assets/8863250b-b90e-405f-a974-33069ef5b2fe)
