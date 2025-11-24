@@ -65,3 +65,9 @@ and limitations under the License.
 ======================================
 🔒 Certified by THE DIGITAL WARRIOR
 ======================================
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![Project: القاعدة المركزية](https://img.shields.io/badge/Project-القاعدة_المركزية-darkred.svg)
+![Certified by Warrior](https://img.shields.io/badge/Certified-Warrior-black.svg)
+![Username: asrar-mared](https://img.shields.io/badge/User-asrar--mared-blueviolet.svg)
+![Security: Verified](https://img.shields.io/badge/Security-Verified-green.svg)
+![Version: V2.5.0](https://img.shields.io/badge/Version-2.5.0-orange.svg)
